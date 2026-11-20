@@ -1,0 +1,1 @@
+{"client_id": "https://raw.githack.com/mohamedalnahhal/bb-ssrf-page/master/cimdimg1795184700.json", "client_name": "bb", "logo_uri": "https://raw.githack.com/mohamedalnahhal/bb-ssrf-page/master/img1795184700.png", "redirect_uris": ["https://example.com/cb"], "token_endpoint_auth_method": "none", "scope": "openid"}
