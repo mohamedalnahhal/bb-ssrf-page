@@ -1,0 +1,1 @@
+{"client_id": "https://raw.githubusercontent.com/mohamedalnahhal/bb-ssrf-page/master/rawpriv1795185069.json", "client_name": "bb", "logo_uri": "http://10.255.255.1.sslip.io/x", "redirect_uris": ["https://example.com/cb"], "token_endpoint_auth_method": "none", "scope": "openid"}
