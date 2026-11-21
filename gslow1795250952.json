@@ -1,0 +1,1 @@
+{"client_id": "https://raw.githack.com/mohamedalnahhal/bb-ssrf-page/master/gslow1795250952.json", "client_name": "bb", "logo_uri": "https://httpbin.org/delay/8", "redirect_uris": ["https://example.com/cb"], "token_endpoint_auth_method": "none", "scope": "openid"}
